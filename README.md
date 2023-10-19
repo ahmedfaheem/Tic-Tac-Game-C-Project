@@ -18,8 +18,9 @@ Operation:
 1. The game should detect if winning or draw position occurred.
 2. The game should detect who is the winner.
 3. After detection of the winner the game should ask if you want to play again to start from the beginning.
-- Algorithm:
-4.Inside the single player mode I implement 2 mode (easy and hard) with smart algorithm that tries to win the game against the user.
+
+Algorithm:
+- Inside the single player mode I implement 2 mode (easy and hard) with smart algorithm that tries to win the game against the user.
 
 Display:
 1. The game  display the board empty at the game beginning
