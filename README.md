@@ -35,8 +35,8 @@ game modes (single player or multiplayer).
 play again or if the player wants to quit the game.
 
 
--tools 
-•       Makefile: -I use this to manage the dependencies of the source files of the programs during the compilation and linking (build) phase
-•       Understand Scitool : Gor Analysis 
+-Tools 
+• Makefile: I use this to manage the dependencies of the source files of the programs during the compilation and linking (build) phase
+• Understand Scitool : Gor Analysis 
  
 Thanks 
