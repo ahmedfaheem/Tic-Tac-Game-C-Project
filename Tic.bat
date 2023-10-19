@@ -1,0 +1,2 @@
+make All 
+out.exe
